@@ -1,0 +1,68 @@
+[
+  {
+    "_id": "6603b23fe96dad8f26d8acbd",
+    "name": "Dotson Cabrera",
+    "age": 23,
+    "email": "dotsoncabrera@slumberia.com",
+    "role": "admin",
+    "active": false,
+    "photo": "user-5.jpg",
+    "password": "",
+    "createdAt": "2015-12-17T11:58:57"
+  },
+  {
+    "_id": "6603b23f04989b3a5db5b790",
+    "name": "Barker Campos",
+    "age": 35,
+    "email": "barkercampos@slumberia.com",
+    "role": "admin",
+    "active": false,
+    "photo": "user-3.jpg",
+    "password": "",
+    "createdAt": "2018-08-15T06:48:03"
+  },
+  {
+    "_id": "6603b23f2fe1f79bdc13e01f",
+    "name": "Cummings Abbott",
+    "age": 24,
+    "email": "cummingsabbott@slumberia.com",
+    "role": "admin",
+    "active": true,
+    "photo": "user-3.jpg",
+    "password": "",
+    "createdAt": "2021-10-23T11:03:46"
+  },
+  {
+    "_id": "6603b23f70da29c224a1c494",
+    "name": "Leigh Rhodes",
+    "age": 31,
+    "email": "leighrhodes@slumberia.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-3.jpg",
+    "password": "",
+    "createdAt": "2016-04-26T10:17:39"
+  },
+  {
+    "_id": "6603b23ff67b6c1443fb66c6",
+    "name": "Cross Blake",
+    "age": 27,
+    "email": "crossblake@slumberia.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-5.jpg",
+    "password": "",
+    "createdAt": "2018-01-20T10:00:27"
+  },
+  {
+    "_id": "6603b23f2586d2b2cb543f9d",
+    "name": "Rena Grimes",
+    "age": 37,
+    "email": "renagrimes@slumberia.com",
+    "role": "admin",
+    "active": true,
+    "photo": "user-5.jpg",
+    "password": "",
+    "createdAt": "2021-04-12T11:48:29"
+  }
+]
